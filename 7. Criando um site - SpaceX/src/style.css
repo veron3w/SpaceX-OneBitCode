@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Staatliches&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Staatliches&display=swap');
+
+body {
+ margin: 10px;
+ background-image: url(https://images.hdqwalls.com/wallpapers/cyberpunk-astronaut-minimal-4k-jg.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+a[href='index2.html'] {
+ color: rgb(0, 0, 0);
+ background-color: rgb(229, 220, 192);
+ padding: 5px;
+ border-radius: 15px;
+}
+
+a[href='index3.html']{
+ color: rgb(0, 0, 0);
+ background-color: rgb(229, 220, 192);
+ padding: 5px;
+ border-radius: 15px;
+}
+
+.header {
+ background-color: rgba(0, 0, 0, 0.5);
+ padding: 8px;
+ font-family: Staatliches, sans-serif;
+ font-size: 21px;
+}
+
+
+.h1-title {
+ text-decoration: underline;
+ color: white;
+}
+
+.title {
+ color: white;
+ font-family: Poppins, sans-serif;
+}
+
+.title-service {
+ color: white;
+ text-decoration: underline;
+}
+.services {
+ color: white;
+ font-family: Poppins, sans-serif;
+
+}
+
+table {
+ color: white;
+}
+
+h5 {
+ color: white;
+}
+
+h1 {
+ color: white;
+}
+
+h3 {
+ color: white;
+}
+
+p {
+ color: white;
+}
+
+form {
+ margin-right: 50%;
+ background-color: rgba(0, 0, 0, 0.6);
+ color: white;
+}
+
+.name {
+ padding: 20px;
+}
+
+#cpf {
+ color: white;
+}
